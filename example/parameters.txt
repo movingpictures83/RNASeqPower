@@ -1,0 +1,9 @@
+depth	20
+cv	0.4
+effectstart	1.25
+effectstop	2
+effectstep	0.25
+alpha	0.05
+powerstart	0.8
+powerstop	0.9
+powerstep	0.1

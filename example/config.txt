@@ -1,0 +1,2 @@
+Prefix plugins/RNASeqPower/example/
+Plugin RNASeqPower inputfile parameters.txt outputfile rnaseqpower.csv
